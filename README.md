@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Linux System Administration, Machine Learning, Web development.**
 
-- 📫 Reach me at **temp@gmail.com**
+- 📫 Reach me at **contact.dropper199@aleeas.com**
 
 
 <h3 align="left">Languages and Tools:</h3>
