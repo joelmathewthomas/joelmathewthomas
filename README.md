@@ -1,5 +1,4 @@
 <h1 align="center">Hi 👋, I'm Joel Mathew Thomas</h1>
-<h3 align="center">A passionate developer from India.</h3>
 
 ## 💫 About Me:
 🌱 I’m currently learning Linux System Administration, Machine Learning, Web <br>📫 Reach me at contact.dropper199@aleeas.com
