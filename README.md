@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Joel Mathew Thomas</h1>
 
 ## 💫 About Me:
-🌱 I’m currently learning Linux System Administration, Machine Learning, Web <br>📫 Reach me at contact.dropper199@aleeas.com
+🌱 I’m currently learning Linux System Administration, Machine Learning, Web Development <br>📫 Reach me at contact.dropper199@aleeas.com
 
 
 ## 🌐 Socials:
