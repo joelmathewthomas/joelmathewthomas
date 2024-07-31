@@ -3,8 +3,8 @@
 ## 💫 About Me:
 🌱 I’m currently learning Linux System Administration, Machine Learning, Web Development <br>📫 Reach me at contact.dropper199@aleeas.com
 
-## Portfolio:
-joelmathewthomas.github.io
+## 💎 Portfolio:
+[joelmathewthomas.github.io](https://joelmathewthomas.github.io)
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/joelmathewthomas/) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/19985031/joel-mathew-thomas) 
