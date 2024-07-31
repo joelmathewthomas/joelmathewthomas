@@ -24,7 +24,6 @@
 
 ## 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=joelmathewthomas&theme=github_dark_dimmed&hide_border=false&include_all_commits=true&count_private=true) ![](https://github-readme-streak-stats.herokuapp.com/?user=joelmathewthomas&theme=github_dark_dimmed&hide_border=false) ![](https://github-readme-stats.vercel.app/api/top-langs/?username=joelmathewthomas&theme=github_dark_dimmed&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-![](https://github-readme-activity-graph.vercel.app/graph?username=joelmathewthomas&theme=github)
 
 ## 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=joelmathewthomas&limit=5&theme=github_dark&combine_all_yearly_contributions=true)
