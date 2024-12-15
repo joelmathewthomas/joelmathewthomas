@@ -1,33 +1,81 @@
-<h1 align="center">Hi 👋, I'm Joel Mathew Thomas</h1>
+<h1 align="center">Hello, I'm Joel Mathew Thomas 👋</h1>
 
-## 💫 About Me:
-🌱 I’m currently learning Linux System Administration, Machine Learning, Web Development <br>📫 Reach me at contact.dropper199@aleeas.com
+###
 
-## 💎 Portfolio:
-[joelmathewthomas.github.io](https://joelmathewthomas.github.io)
+<br clear="both">
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/joelmathewthomas/) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/19985031/joel-mathew-thomas) 
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=joelmathewthomas.joelmathewthomas&"  />
 
-## 💻 Tech Stack:
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+###
 
-![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Socket.io](https://img.shields.io/badge/Socket.io-black?style=for-the-badge&logo=socket.io&badgeColor=010101)
+<h3 align="left">👩‍💻  About Me</h3>
 
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
+###
 
-![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white) ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
+<p align="left">I'm a dedicated tech enthusiast with a passion for open-source, coding, and exploring innovative solutions in the tech world.<br>🔭 I’m pursuing B.Tech in Computer Science.<br>📚 I have experience with Web Development, Hosting, and Virtualization technologies.<br>⚡ In my free time, I tinker with Linux, dive into Virtualization, and deepen my involvement in open-source projects.<br><br>🌐 Check out my portfolio at: <a href="https://joelmathewthomas.github.io" target="_blank">joelmathewthomas.github.io</a><br>📧 Feel free to reach out to me at: <a href="mailto:contact.dropper199@aleeas.com">contact.dropper199@aleeas.com</a></p>
 
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![VirtualBox](https://img.shields.io/badge/VirtualBox-21416b?style=for-the-badge&logo=VirtualBox&logoColor=white) ![VMWare](https://img.shields.io/badge/VMware-231f20?style=for-the-badge&logo=VMware&logoColor=white) ![ngrok](https://img.shields.io/badge/ngrok-140648?style=for-the-badge&logo=Ngrok&logoColor=white)
 
-![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white) ![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+###
 
-## 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=joelmathewthomas&theme=github_dark_dimmed&hide_border=false&include_all_commits=true&count_private=true) ![](https://github-readme-streak-stats.herokuapp.com/?user=joelmathewthomas&theme=github_dark_dimmed&hide_border=false) ![](https://github-readme-stats.vercel.app/api/top-langs/?username=joelmathewthomas&theme=github_dark_dimmed&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+<h3 align="left">🛠 Technologies & Tools</h3>
 
-## 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=joelmathewthomas&limit=5&theme=github_dark&combine_all_yearly_contributions=true)
+###
 
----
-[![](https://visitcount.itsvg.in/api?id=joelmathewthomas&icon=3&color=12)](https://visitcount.itsvg.in)
+<div align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="38" alt="linux logo"  />
+  <img width="15" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="38" alt="c logo"  />
+  <img width="15" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="38" alt="python logo"  />
+  <img width="15" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="38" alt="java logo"  />
+  <img width="15" />
+  <img src="https://skillicons.dev/icons?i=js" height="38" alt="javascript logo"  />
+  <img width="15" />
+  <img src="https://skillicons.dev/icons?i=nodejs" height="38" alt="nodejs logo"  />
+  <img width="15" />
+  <img src="https://skillicons.dev/icons?i=express" height="38" alt="express logo"  />
+  <img width="15" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="38" alt="mysql logo"  />
+  <img width="15" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nginx/nginx-original.svg" height="38" alt="nginx logo"  />
+  <img width="15" />
+  <img src="https://cdn.simpleicons.org/gnubash/4EAA25" height="38" alt="bash logo"  />
+  <img width="15" />
+  <img src="https://cdn.simpleicons.org/django/092E20" height="38" alt="django logo"  />
+  <img width="15" />
+  <img src="https://skillicons.dev/icons?i=aws" height="38" alt="amazonwebservices logo"  />
+  <img width="15" />
+  <img src="https://cdn.simpleicons.org/docker/2496ED" height="38" alt="docker logo"  />
+  <img width="15" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vim/vim-original.svg" height="38" alt="vim logo"  />
+  <img width="15" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/socketio/socketio-original.svg" height="38" alt="socketio logo"  />
+</div>
 
+###
+
+<h3 align="left">🚀 My Progress</h3>
+
+###
+
+<br clear="both">
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=joelmathewthomas&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=github_dark&locale=en&hide_border=true&order=1" height="200" alt="stats graph" /> <br>
+  <img src="https://streak-stats.demolab.com?user=joelmathewthomas&locale=en&mode=daily&theme=github_dark&hide_border=true&border_radius=5&order=3" height="200" alt="streak graph" /> <br>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=joelmathewthomas&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=10&theme=github_dark&hide_border=true&order=2" height="200" alt="languages graph"  />
+</div>
+
+###
+
+<div align="center">
+  <a href="https://www.linkedin.com/in/joelmathewthomas/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
+  </a>
+  <a href="https://stackoverflow.com/users/19985031/joel-mathew-thomas" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Stackoverflow&logo=stackoverflow&label=&color=FE7A16&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="stackoverflow logo"  />
+  </a>
+</div>
+
+###
