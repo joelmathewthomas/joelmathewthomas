@@ -12,7 +12,7 @@
 
 ###
 
-<p align="left">I'm a dedicated tech enthusiast with a passion for open-source, coding, and exploring innovative solutions in the tech world.<br>🔭 I’m pursuing B.Tech in Computer Science.<br>📚 I have experience with Web Development, Hosting, and Virtualization technologies.<br>⚡ In my free time, I tinker with Linux, dive into Virtualization, and deepen my involvement in open-source projects.<br><br>🌐 Check out my portfolio at: <a href="https://joelmathewthomas.github.io" target="_blank">joelmathewthomas.github.io</a><br>📧 Feel free to reach out to me at: <a href="mailto:contact.dropper199@aleeas.com">contact.dropper199@aleeas.com</a></p>
+<p align="left">I'm a dedicated tech enthusiast with a passion for open-source, coding, and exploring innovative solutions in the tech world.<br>🔭 I’m pursuing B.Tech in Computer Science.<br>📚 I have experience with Web Development, Hosting, and Virtualization technologies.<br>⚡ In my free time, I tinker with Linux, dive into Virtualization, and deepen my involvement in open-source projects.<br><br>🌐 Check out my portfolio at: <a href="https://joelmathewthomas.github.io" target="_blank">joelmathewthomas.github.io</a><br>📧 Feel free to reach out to me at: <a href="mailto:joelmathewthomas.reiterate061@aleeas.com">joelmathewthomas.reiterate061@aleeas.com</a></p>
 
 
 ###
