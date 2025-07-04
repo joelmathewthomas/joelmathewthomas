@@ -16,41 +16,6 @@
 
 
 ###
-
-<h3 align="left">🛠 Technologies & Tools</h3>
-
-###
-
-<div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="38" alt="linux logo"  />
-  <img width="15" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="38" alt="c logo"  />
-  <img width="15" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="38" alt="python logo"  />
-  <img width="15" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="38" alt="java logo"  />
-  <img width="15" />
-  <img src="https://skillicons.dev/icons?i=js" height="38" alt="javascript logo"  />
-  <img width="15" />
-  <img src="https://skillicons.dev/icons?i=nodejs" height="38" alt="nodejs logo"  />
-  <img width="15" />
-  <img src="https://skillicons.dev/icons?i=express" height="38" alt="express logo"  />
-  <img width="15" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="38" alt="mysql logo"  />
-  <img width="15" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nginx/nginx-original.svg" height="38" alt="nginx logo"  />
-  <img width="15" />
-  <img src="https://cdn.simpleicons.org/gnubash/4EAA25" height="38" alt="bash logo"  />
-  <img width="15" />
-  <img src="https://cdn.simpleicons.org/django/092E20" height="38" alt="django logo"  />
-  <img width="15" />
-  <img src="https://skillicons.dev/icons?i=aws" height="38" alt="amazonwebservices logo"  />
-  <img width="15" />
-  <img src="https://cdn.simpleicons.org/docker/2496ED" height="38" alt="docker logo"  />
-  <img width="15" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vim/vim-original.svg" height="38" alt="vim logo"  />
-  <img width="15" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/socketio/socketio-original.svg" height="38" alt="socketio logo"  />
 </div>
 
 ###
